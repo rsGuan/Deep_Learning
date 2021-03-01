@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2017021012.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>157</ymin>
+			<xmax>287</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>201</ymin>
+			<xmax>351</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>249</xmin>
+			<ymin>164</ymin>
+			<xmax>394</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>

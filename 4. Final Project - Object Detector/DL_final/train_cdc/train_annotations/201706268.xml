@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201706268.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>151</ymin>
+			<xmax>310</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>93</ymin>
+			<xmax>141</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>1</ymin>
+			<xmax>363</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+</annotation>

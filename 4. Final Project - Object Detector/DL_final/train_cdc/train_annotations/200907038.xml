@@ -1,0 +1,35 @@
+<annotation>
+	<filename>200907038.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>115</ymin>
+			<xmax>120</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>56</ymin>
+			<xmax>357</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>172</ymin>
+			<xmax>242</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

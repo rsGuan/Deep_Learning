@@ -1,0 +1,26 @@
+<annotation>
+	<filename>201310021.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>168</ymin>
+			<xmax>204</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>46</ymin>
+			<xmax>400</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>

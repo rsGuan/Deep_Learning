@@ -1,0 +1,35 @@
+<annotation>
+	<filename>200907014.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>20</ymin>
+			<xmax>294</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>89</ymin>
+			<xmax>329</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>190</ymin>
+			<xmax>300</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>

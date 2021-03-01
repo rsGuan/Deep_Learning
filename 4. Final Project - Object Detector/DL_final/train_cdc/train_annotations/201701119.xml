@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201701119.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>165</ymin>
+			<xmax>281</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>159</ymin>
+			<xmax>379</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>131</ymin>
+			<xmax>400</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>

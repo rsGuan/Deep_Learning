@@ -1,0 +1,17 @@
+<annotation>
+	<filename>201506268.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>toilet</name>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>108</ymin>
+			<xmax>268</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2012103113.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>172</ymin>
+			<xmax>174</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>180</ymin>
+			<xmax>170</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>water_tower</name>
+		<bndbox>
+			<xmin>319</xmin>
+			<ymin>143</ymin>
+			<xmax>338</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>

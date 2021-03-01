@@ -1,0 +1,26 @@
+<annotation>
+	<filename>20111028.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>22</ymin>
+			<xmax>196</xmax>
+			<ymax>99</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>aquarium</name>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>73</ymin>
+			<xmax>289</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>

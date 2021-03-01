@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201010065.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>100</ymin>
+			<xmax>141</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>121</ymin>
+			<xmax>339</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>160</ymin>
+			<xmax>45</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,35 @@
+<annotation>
+	<filename>200906101.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>363</xmin>
+			<ymin>226</ymin>
+			<xmax>389</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>207</ymin>
+			<xmax>175</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>146</ymin>
+			<xmax>325</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>

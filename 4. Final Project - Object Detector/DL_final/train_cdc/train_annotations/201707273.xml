@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201707273.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>116</ymin>
+			<xmax>380</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>water_tower</name>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>1</ymin>
+			<xmax>328</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>23</ymin>
+			<xmax>390</xmax>
+			<ymax>47</ymax>
+		</bndbox>
+	</object>
+</annotation>

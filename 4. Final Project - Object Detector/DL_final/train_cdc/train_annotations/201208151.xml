@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201208151.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>254</ymin>
+			<xmax>177</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>239</ymin>
+			<xmax>260</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>170</ymin>
+			<xmax>191</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>

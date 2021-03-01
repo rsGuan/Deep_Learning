@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2013082811.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>96</ymin>
+			<xmax>216</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plate</name>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>223</ymin>
+			<xmax>329</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>49</ymin>
+			<xmax>400</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>

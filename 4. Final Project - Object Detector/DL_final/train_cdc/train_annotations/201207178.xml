@@ -1,0 +1,26 @@
+<annotation>
+	<filename>201207178.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>82</ymin>
+			<xmax>290</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>108</ymin>
+			<xmax>334</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

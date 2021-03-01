@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201309233.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>113</ymin>
+			<xmax>276</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>153</ymin>
+			<xmax>316</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>114</ymin>
+			<xmax>236</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>

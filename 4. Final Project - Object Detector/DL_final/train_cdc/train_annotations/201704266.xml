@@ -1,0 +1,17 @@
+<annotation>
+	<filename>201704266.jpg</filename>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>214</ymin>
+			<xmax>227</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<filename>200904163.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>210</ymin>
+			<xmax>205</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>196</ymin>
+			<xmax>289</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201709153.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>156</ymin>
+			<xmax>166</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>161</ymin>
+			<xmax>300</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>251</ymin>
+			<xmax>149</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>

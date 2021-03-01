@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2015081412.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>plate</name>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>15</ymin>
+			<xmax>375</xmax>
+			<ymax>71</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>29</ymin>
+			<xmax>194</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>132</ymin>
+			<xmax>331</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

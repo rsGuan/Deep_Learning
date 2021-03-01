@@ -1,0 +1,35 @@
+<annotation>
+	<filename>20130415.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>93</ymin>
+			<xmax>66</xmax>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>water_tower</name>
+		<bndbox>
+			<xmin>301</xmin>
+			<ymin>57</ymin>
+			<xmax>388</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>202</ymin>
+			<xmax>296</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

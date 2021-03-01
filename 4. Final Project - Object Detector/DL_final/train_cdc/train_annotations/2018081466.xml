@@ -1,0 +1,17 @@
+<annotation>
+	<filename>2018081466.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>75</ymin>
+			<xmax>270</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>

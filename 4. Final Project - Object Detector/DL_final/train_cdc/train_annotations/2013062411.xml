@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2013062411.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>133</ymin>
+			<xmax>300</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>118</ymin>
+			<xmax>189</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>109</ymin>
+			<xmax>29</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

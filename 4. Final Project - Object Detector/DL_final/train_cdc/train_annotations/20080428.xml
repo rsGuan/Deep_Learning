@@ -1,0 +1,17 @@
+<annotation>
+	<filename>20080428.jpg</filename>
+	<size>
+		<width>250</width>
+		<height>187</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>washing_machine</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>57</ymin>
+			<xmax>76</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>

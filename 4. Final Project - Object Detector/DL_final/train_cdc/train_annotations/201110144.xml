@@ -1,0 +1,26 @@
+<annotation>
+	<filename>201110144.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>234</ymin>
+			<xmax>183</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>255</ymin>
+			<xmax>196</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

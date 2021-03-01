@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2010082418.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>228</ymin>
+			<xmax>94</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>168</ymin>
+			<xmax>299</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>278</ymin>
+			<xmax>345</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

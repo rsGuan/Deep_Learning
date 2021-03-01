@@ -1,0 +1,26 @@
+<annotation>
+	<filename>201208152.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>79</ymin>
+			<xmax>347</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>127</ymin>
+			<xmax>343</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>

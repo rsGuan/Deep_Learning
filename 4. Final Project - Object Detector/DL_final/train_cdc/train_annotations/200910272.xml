@@ -1,0 +1,35 @@
+<annotation>
+	<filename>200910272.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>37</ymin>
+			<xmax>285</xmax>
+			<ymax>74</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>27</ymin>
+			<xmax>336</xmax>
+			<ymax>68</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>21</ymin>
+			<xmax>301</xmax>
+			<ymax>49</ymax>
+		</bndbox>
+	</object>
+</annotation>

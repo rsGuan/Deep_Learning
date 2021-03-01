@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2014010816.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>136</ymin>
+			<xmax>343</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>190</ymin>
+			<xmax>317</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>70</ymin>
+			<xmax>176</xmax>
+			<ymax>125</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201507314.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>95</ymin>
+			<xmax>69</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>88</ymin>
+			<xmax>271</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>233</ymin>
+			<xmax>243</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

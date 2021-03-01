@@ -1,0 +1,35 @@
+<annotation>
+	<filename>20130218.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>28</ymin>
+			<xmax>328</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>3</ymin>
+			<xmax>213</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>126</ymin>
+			<xmax>217</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>

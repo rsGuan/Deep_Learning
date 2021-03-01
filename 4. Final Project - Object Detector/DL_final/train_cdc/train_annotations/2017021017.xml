@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2017021017.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>50</ymin>
+			<xmax>242</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>1</ymin>
+			<xmax>399</xmax>
+			<ymax>68</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>20</ymin>
+			<xmax>280</xmax>
+			<ymax>55</ymax>
+		</bndbox>
+	</object>
+</annotation>

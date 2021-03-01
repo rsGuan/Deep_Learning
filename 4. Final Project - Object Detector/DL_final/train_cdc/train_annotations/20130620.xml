@@ -1,0 +1,17 @@
+<annotation>
+	<filename>20130620.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>267</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>89</ymin>
+			<xmax>323</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

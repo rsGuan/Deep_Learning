@@ -1,0 +1,26 @@
+<annotation>
+	<filename>2018081423.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>231</xmin>
+			<ymin>165</ymin>
+			<xmax>295</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>341</xmin>
+			<ymin>187</ymin>
+			<xmax>374</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>

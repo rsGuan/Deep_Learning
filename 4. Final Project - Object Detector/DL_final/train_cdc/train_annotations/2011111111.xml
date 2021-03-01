@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2011111111.jpg</filename>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>386</xmin>
+			<ymin>189</ymin>
+			<xmax>533</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>208</ymin>
+			<xmax>319</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>228</ymin>
+			<xmax>140</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

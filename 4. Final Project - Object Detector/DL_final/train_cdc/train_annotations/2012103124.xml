@@ -1,0 +1,26 @@
+<annotation>
+	<filename>2012103124.jpg</filename>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>307</ymin>
+			<xmax>186</xmax>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>458</xmin>
+			<ymin>179</ymin>
+			<xmax>506</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

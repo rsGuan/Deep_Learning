@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2017052529.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>62</ymin>
+			<xmax>250</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>218</ymin>
+			<xmax>161</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>97</ymin>
+			<xmax>400</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>

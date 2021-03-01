@@ -1,0 +1,17 @@
+<annotation>
+	<filename>201306033.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>150</ymin>
+			<xmax>253</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+</annotation>

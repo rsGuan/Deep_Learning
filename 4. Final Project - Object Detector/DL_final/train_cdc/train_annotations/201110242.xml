@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201110242.jpg</filename>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>325</ymin>
+			<xmax>230</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>131</ymin>
+			<xmax>111</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>138</ymin>
+			<xmax>300</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

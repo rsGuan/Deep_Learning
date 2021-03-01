@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201509281.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>113</ymin>
+			<xmax>270</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>114</ymin>
+			<xmax>390</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>171</ymin>
+			<xmax>188</xmax>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+</annotation>

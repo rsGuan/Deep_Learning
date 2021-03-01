@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2008111110.jpg</filename>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>637</xmin>
+			<ymin>331</ymin>
+			<xmax>696</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>728</xmin>
+			<ymin>325</ymin>
+			<xmax>786</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>376</xmin>
+			<ymin>453</ymin>
+			<xmax>407</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+</annotation>

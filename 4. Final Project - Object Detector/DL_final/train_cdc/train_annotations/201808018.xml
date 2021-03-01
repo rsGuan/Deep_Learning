@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201808018.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>98</ymin>
+			<xmax>225</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>97</ymin>
+			<xmax>304</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tub</name>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>82</ymin>
+			<xmax>392</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

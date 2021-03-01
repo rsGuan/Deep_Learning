@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201009294.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>91</ymin>
+			<xmax>264</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>75</ymin>
+			<xmax>333</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>124</ymin>
+			<xmax>317</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

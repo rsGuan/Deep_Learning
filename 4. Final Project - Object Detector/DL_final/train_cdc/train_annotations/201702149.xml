@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201702149.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>149</ymin>
+			<xmax>308</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>56</ymin>
+			<xmax>223</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>103</ymin>
+			<xmax>49</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+</annotation>

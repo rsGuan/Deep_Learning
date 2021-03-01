@@ -1,0 +1,26 @@
+<annotation>
+	<filename>2010092421.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>140</ymin>
+			<xmax>152</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>92</ymin>
+			<xmax>279</xmax>
+			<ymax>121</ymax>
+		</bndbox>
+	</object>
+</annotation>

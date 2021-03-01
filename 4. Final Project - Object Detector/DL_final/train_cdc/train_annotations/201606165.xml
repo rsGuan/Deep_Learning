@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201606165.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>91</ymin>
+			<xmax>354</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>116</ymin>
+			<xmax>350</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>114</ymin>
+			<xmax>302</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>

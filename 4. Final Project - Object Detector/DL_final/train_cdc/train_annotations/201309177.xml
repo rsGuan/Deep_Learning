@@ -1,0 +1,26 @@
+<annotation>
+	<filename>201309177.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>162</ymin>
+			<xmax>268</xmax>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>168</ymin>
+			<xmax>236</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

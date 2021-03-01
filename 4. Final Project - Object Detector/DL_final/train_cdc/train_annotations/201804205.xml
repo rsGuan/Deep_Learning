@@ -1,0 +1,26 @@
+<annotation>
+	<filename>201804205.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>114</ymin>
+			<xmax>270</xmax>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>259</ymin>
+			<xmax>122</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

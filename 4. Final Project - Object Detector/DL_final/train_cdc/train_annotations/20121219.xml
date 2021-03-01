@@ -1,0 +1,35 @@
+<annotation>
+	<filename>20121219.jpg</filename>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>330</ymin>
+			<xmax>149</xmax>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>409</ymin>
+			<xmax>525</xmax>
+			<ymax>599</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>4</ymin>
+			<xmax>457</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+</annotation>

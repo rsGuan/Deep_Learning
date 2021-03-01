@@ -1,0 +1,17 @@
+<annotation>
+	<filename>2018070513.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>144</ymin>
+			<xmax>238</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+</annotation>

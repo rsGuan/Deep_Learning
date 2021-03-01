@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201405273.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>158</ymin>
+			<xmax>168</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>161</ymin>
+			<xmax>201</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>174</ymin>
+			<xmax>244</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<filename>201307012.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>299</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>145</ymin>
+			<xmax>177</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>96</ymin>
+			<xmax>328</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<filename>201804301.jpg</filename>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>89</ymin>
+			<xmax>298</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>118</ymin>
+			<xmax>150</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

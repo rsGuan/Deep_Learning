@@ -1,0 +1,26 @@
+<annotation>
+	<filename>2018081416.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>97</ymin>
+			<xmax>245</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>102</ymin>
+			<xmax>86</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<filename>200909013.jpg</filename>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>367</xmin>
+			<ymin>185</ymin>
+			<xmax>410</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>188</ymin>
+			<xmax>276</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>

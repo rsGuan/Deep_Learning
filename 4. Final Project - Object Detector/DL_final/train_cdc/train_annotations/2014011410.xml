@@ -1,0 +1,26 @@
+<annotation>
+	<filename>2014011410.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>toilet</name>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>133</ymin>
+			<xmax>289</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>100</ymin>
+			<xmax>158</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

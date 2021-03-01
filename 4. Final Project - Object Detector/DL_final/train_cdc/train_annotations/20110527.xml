@@ -1,0 +1,35 @@
+<annotation>
+	<filename>20110527.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>127</ymin>
+			<xmax>370</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>56</ymin>
+			<xmax>143</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>90</ymin>
+			<xmax>216</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+</annotation>

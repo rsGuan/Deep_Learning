@@ -1,0 +1,26 @@
+<annotation>
+	<filename>201401146.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>119</ymin>
+			<xmax>267</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>224</ymin>
+			<xmax>216</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>

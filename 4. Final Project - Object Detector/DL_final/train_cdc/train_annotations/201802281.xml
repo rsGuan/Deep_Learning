@@ -1,0 +1,26 @@
+<annotation>
+	<filename>201802281.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>63</ymin>
+			<xmax>297</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>52</ymin>
+			<xmax>332</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

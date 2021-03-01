@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2008111917.jpg</filename>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>water_tower</name>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>1</ymin>
+			<xmax>426</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>513</xmin>
+			<ymin>367</ymin>
+			<xmax>595</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>532</xmin>
+			<ymin>290</ymin>
+			<xmax>639</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>

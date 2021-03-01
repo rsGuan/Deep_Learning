@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201504142.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>189</ymin>
+			<xmax>190</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>212</ymin>
+			<xmax>295</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>301</xmin>
+			<ymin>243</ymin>
+			<xmax>377</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

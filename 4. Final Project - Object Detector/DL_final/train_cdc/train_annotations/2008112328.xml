@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2008112328.jpg</filename>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>544</xmin>
+			<ymin>354</ymin>
+			<xmax>687</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>246</ymin>
+			<xmax>103</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>626</xmin>
+			<ymin>298</ymin>
+			<xmax>718</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>

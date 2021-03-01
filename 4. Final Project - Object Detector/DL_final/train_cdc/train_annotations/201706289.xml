@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201706289.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>33</ymin>
+			<xmax>332</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>121</ymin>
+			<xmax>232</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>178</ymin>
+			<xmax>214</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>

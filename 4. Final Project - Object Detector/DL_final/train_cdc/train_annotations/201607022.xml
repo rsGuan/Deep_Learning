@@ -1,0 +1,26 @@
+<annotation>
+	<filename>201607022.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>171</ymin>
+			<xmax>231</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>183</ymin>
+			<xmax>168</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2013011650.jpg</filename>
+	<size>
+		<width>281</width>
+		<height>211</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>90</ymin>
+			<xmax>139</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plate</name>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>102</ymin>
+			<xmax>281</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>108</ymin>
+			<xmax>90</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>

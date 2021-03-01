@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2010082420.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>246</ymin>
+			<xmax>198</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>261</ymin>
+			<xmax>324</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>148</ymin>
+			<xmax>141</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

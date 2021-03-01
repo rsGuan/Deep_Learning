@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2010082613.jpg</filename>
+	<size>
+		<width>250</width>
+		<height>185</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>67</ymin>
+			<xmax>102</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>117</ymin>
+			<xmax>102</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>90</ymin>
+			<xmax>208</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+</annotation>

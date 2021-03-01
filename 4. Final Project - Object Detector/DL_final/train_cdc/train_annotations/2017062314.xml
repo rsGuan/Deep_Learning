@@ -1,0 +1,26 @@
+<annotation>
+	<filename>2017062314.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>153</ymin>
+			<xmax>279</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>96</ymin>
+			<xmax>286</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

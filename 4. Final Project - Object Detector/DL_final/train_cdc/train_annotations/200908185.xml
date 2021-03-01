@@ -1,0 +1,26 @@
+<annotation>
+	<filename>200908185.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>130</ymin>
+			<xmax>239</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>234</ymin>
+			<xmax>223</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

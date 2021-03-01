@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2011122811.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>267</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>196</ymin>
+			<xmax>268</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>199</ymin>
+			<xmax>400</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>92</ymin>
+			<xmax>164</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+</annotation>

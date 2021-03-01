@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201405011.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>107</ymin>
+			<xmax>197</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plate</name>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>175</ymin>
+			<xmax>292</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plate</name>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>139</ymin>
+			<xmax>241</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2018032817.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>81</ymin>
+			<xmax>360</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>51</ymin>
+			<xmax>298</xmax>
+			<ymax>115</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>345</xmin>
+			<ymin>165</ymin>
+			<xmax>365</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

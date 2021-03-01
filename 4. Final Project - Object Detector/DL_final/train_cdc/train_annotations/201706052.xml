@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201706052.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>84</ymin>
+			<xmax>376</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>32</ymin>
+			<xmax>204</xmax>
+			<ymax>59</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>262</ymin>
+			<xmax>311</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>

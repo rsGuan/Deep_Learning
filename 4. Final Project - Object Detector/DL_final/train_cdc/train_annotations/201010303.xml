@@ -1,0 +1,17 @@
+<annotation>
+	<filename>201010303.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>297</xmin>
+			<ymin>56</ymin>
+			<xmax>326</xmax>
+			<ymax>80</ymax>
+		</bndbox>
+	</object>
+</annotation>

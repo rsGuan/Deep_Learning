@@ -1,0 +1,17 @@
+<annotation>
+	<filename>2018052213.jpg</filename>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>plate</name>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>46</ymin>
+			<xmax>300</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>

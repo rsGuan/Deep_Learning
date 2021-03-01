@@ -1,0 +1,26 @@
+<annotation>
+	<filename>201205224.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>55</ymin>
+			<xmax>161</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>12</ymin>
+			<xmax>400</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,35 @@
+<annotation>
+	<filename>200811239.jpg</filename>
+	<size>
+		<width>192</width>
+		<height>144</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>33</ymin>
+			<xmax>189</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>51</ymin>
+			<xmax>87</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>85</ymin>
+			<xmax>96</xmax>
+			<ymax>107</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<filename>200904168.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>water_tower</name>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>13</ymin>
+			<xmax>205</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>water_tower</name>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>1</ymin>
+			<xmax>399</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>

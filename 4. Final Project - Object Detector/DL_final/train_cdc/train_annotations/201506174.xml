@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201506174.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>113</ymin>
+			<xmax>213</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>142</ymin>
+			<xmax>243</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>155</ymin>
+			<xmax>346</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

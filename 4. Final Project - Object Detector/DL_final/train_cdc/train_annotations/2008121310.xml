@@ -1,0 +1,26 @@
+<annotation>
+	<filename>2008121310.jpg</filename>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>water_tower</name>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>277</ymin>
+			<xmax>457</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>539</xmin>
+			<ymin>158</ymin>
+			<xmax>640</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>

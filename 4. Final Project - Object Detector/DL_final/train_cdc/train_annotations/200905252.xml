@@ -1,0 +1,35 @@
+<annotation>
+	<filename>200905252.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>133</ymin>
+			<xmax>360</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>107</ymin>
+			<xmax>372</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>123</ymin>
+			<xmax>314</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>

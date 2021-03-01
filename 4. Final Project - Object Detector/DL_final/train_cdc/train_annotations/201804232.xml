@@ -1,0 +1,26 @@
+<annotation>
+	<filename>201804232.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tub</name>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>162</ymin>
+			<xmax>283</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>152</ymin>
+			<xmax>396</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>

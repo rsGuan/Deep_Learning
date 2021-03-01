@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2011110210.jpg</filename>
+	<size>
+		<width>360</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>aquarium</name>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>221</ymin>
+			<xmax>207</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>314</ymin>
+			<xmax>191</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>117</ymin>
+			<xmax>181</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

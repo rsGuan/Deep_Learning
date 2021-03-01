@@ -1,0 +1,35 @@
+<annotation>
+	<filename>20110920.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>299</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>water_tower</name>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>77</ymin>
+			<xmax>255</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>91</ymin>
+			<xmax>155</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>257</ymin>
+			<xmax>237</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>

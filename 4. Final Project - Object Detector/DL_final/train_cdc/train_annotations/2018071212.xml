@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2018071212.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>86</ymin>
+			<xmax>262</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>110</ymin>
+			<xmax>369</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>15</ymin>
+			<xmax>350</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>

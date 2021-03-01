@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201710312.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>128</ymin>
+			<xmax>129</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>109</ymin>
+			<xmax>399</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>367</xmin>
+			<ymin>44</ymin>
+			<xmax>398</xmax>
+			<ymax>91</ymax>
+		</bndbox>
+	</object>
+</annotation>

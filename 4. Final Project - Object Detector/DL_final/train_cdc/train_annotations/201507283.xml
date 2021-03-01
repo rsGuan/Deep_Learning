@@ -1,0 +1,26 @@
+<annotation>
+	<filename>201507283.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>176</ymin>
+			<xmax>230</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>148</ymin>
+			<xmax>251</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>

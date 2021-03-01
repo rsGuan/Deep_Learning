@@ -1,0 +1,26 @@
+<annotation>
+	<filename>20121023.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>175</ymin>
+			<xmax>272</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tub</name>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>83</ymin>
+			<xmax>213</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+</annotation>

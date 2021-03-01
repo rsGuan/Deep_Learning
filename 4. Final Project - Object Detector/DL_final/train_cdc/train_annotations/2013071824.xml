@@ -1,0 +1,17 @@
+<annotation>
+	<filename>2013071824.jpg</filename>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>toilet</name>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>1</ymin>
+			<xmax>274</xmax>
+			<ymax>399</ymax>
+		</bndbox>
+	</object>
+</annotation>

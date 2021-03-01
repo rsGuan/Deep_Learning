@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201412051.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>8</ymin>
+			<xmax>291</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>112</ymin>
+			<xmax>319</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>68</ymin>
+			<xmax>159</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

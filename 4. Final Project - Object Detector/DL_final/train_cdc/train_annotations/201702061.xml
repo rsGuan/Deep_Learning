@@ -1,0 +1,17 @@
+<annotation>
+	<filename>201702061.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>148</ymin>
+			<xmax>328</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>

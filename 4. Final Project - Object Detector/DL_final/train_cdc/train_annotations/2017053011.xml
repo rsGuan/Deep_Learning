@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2017053011.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>133</ymin>
+			<xmax>242</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>140</ymin>
+			<xmax>400</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>75</ymin>
+			<xmax>255</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+</annotation>

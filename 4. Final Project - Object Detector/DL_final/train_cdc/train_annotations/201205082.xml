@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201205082.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>297</xmin>
+			<ymin>129</ymin>
+			<xmax>400</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>110</ymin>
+			<xmax>289</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>13</ymin>
+			<xmax>400</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+</annotation>

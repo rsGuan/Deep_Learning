@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201412271.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>269</xmin>
+			<ymin>242</ymin>
+			<xmax>295</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>313</xmin>
+			<ymin>196</ymin>
+			<xmax>341</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>219</ymin>
+			<xmax>398</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

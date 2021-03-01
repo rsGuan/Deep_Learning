@@ -1,0 +1,26 @@
+<annotation>
+	<filename>200907272.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>51</ymin>
+			<xmax>283</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>36</ymin>
+			<xmax>400</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>

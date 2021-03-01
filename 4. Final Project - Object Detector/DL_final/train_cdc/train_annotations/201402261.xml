@@ -1,0 +1,26 @@
+<annotation>
+	<filename>201402261.jpg</filename>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>water_tower</name>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>84</ymin>
+			<xmax>227</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>202</ymin>
+			<xmax>208</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>

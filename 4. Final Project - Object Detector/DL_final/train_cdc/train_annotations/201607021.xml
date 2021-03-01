@@ -1,0 +1,17 @@
+<annotation>
+	<filename>201607021.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>aquarium</name>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>45</ymin>
+			<xmax>337</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>

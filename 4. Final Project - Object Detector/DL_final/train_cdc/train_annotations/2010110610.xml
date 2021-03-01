@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2010110610.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>209</ymin>
+			<xmax>193</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plate</name>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>157</ymin>
+			<xmax>196</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>35</ymin>
+			<xmax>258</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>

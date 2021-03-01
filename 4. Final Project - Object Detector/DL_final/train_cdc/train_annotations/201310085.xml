@@ -1,0 +1,26 @@
+<annotation>
+	<filename>201310085.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>194</ymin>
+			<xmax>239</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>217</ymin>
+			<xmax>262</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

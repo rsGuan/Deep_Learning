@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2012091012.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>225</ymin>
+			<xmax>203</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>181</ymin>
+			<xmax>388</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>211</ymin>
+			<xmax>256</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

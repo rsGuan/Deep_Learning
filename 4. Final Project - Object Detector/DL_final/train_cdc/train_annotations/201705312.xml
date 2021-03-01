@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201705312.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>175</ymin>
+			<xmax>351</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>52</ymin>
+			<xmax>206</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>82</ymin>
+			<xmax>349</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

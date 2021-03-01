@@ -1,0 +1,26 @@
+<annotation>
+	<filename>201009108.jpg</filename>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tub</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>121</ymin>
+			<xmax>639</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>512</xmin>
+			<ymin>186</ymin>
+			<xmax>615</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

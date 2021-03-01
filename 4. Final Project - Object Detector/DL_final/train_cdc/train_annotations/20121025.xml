@@ -1,0 +1,35 @@
+<annotation>
+	<filename>20121025.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>170</ymin>
+			<xmax>139</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>200</ymin>
+			<xmax>237</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>177</ymin>
+			<xmax>281</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+</annotation>

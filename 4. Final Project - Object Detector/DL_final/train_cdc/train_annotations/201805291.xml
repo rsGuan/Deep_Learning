@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201805291.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>74</ymin>
+			<xmax>234</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>30</ymin>
+			<xmax>368</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>149</ymin>
+			<xmax>41</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>

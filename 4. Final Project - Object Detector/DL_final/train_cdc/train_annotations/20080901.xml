@@ -1,0 +1,17 @@
+<annotation>
+	<filename>20080901.jpg</filename>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>toilet</name>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>16</ymin>
+			<xmax>507</xmax>
+			<ymax>800</ymax>
+		</bndbox>
+	</object>
+</annotation>

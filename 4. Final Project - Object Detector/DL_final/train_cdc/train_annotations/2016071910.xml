@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2016071910.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>157</ymin>
+			<xmax>171</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>40</ymin>
+			<xmax>298</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>91</ymin>
+			<xmax>386</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

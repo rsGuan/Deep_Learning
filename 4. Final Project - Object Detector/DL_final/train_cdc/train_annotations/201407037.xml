@@ -1,0 +1,26 @@
+<annotation>
+	<filename>201407037.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>186</ymin>
+			<xmax>289</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>144</ymin>
+			<xmax>222</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

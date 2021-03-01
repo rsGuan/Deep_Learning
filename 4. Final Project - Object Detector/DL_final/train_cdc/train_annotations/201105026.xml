@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201105026.jpg</filename>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>122</ymin>
+			<xmax>221</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>66</ymin>
+			<xmax>107</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>196</ymin>
+			<xmax>314</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

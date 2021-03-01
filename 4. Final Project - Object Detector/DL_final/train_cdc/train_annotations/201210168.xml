@@ -1,0 +1,17 @@
+<annotation>
+	<filename>201210168.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>200</ymin>
+			<xmax>384</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

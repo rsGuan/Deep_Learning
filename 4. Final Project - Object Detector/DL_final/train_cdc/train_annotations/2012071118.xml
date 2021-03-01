@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2012071118.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>55</ymin>
+			<xmax>399</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>151</ymin>
+			<xmax>263</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>169</ymin>
+			<xmax>227</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

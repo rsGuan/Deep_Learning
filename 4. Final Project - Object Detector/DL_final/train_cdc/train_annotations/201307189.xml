@@ -1,0 +1,17 @@
+<annotation>
+	<filename>201307189.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>88</ymin>
+			<xmax>394</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

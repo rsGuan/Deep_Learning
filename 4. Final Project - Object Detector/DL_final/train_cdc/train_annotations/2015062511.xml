@@ -1,0 +1,17 @@
+<annotation>
+	<filename>2015062511.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>117</ymin>
+			<xmax>383</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>

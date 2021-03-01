@@ -1,0 +1,26 @@
+<annotation>
+	<filename>201607211.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>140</ymin>
+			<xmax>244</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>231</ymin>
+			<xmax>235</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

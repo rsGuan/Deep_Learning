@@ -1,0 +1,26 @@
+<annotation>
+	<filename>2018061125.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>17</ymin>
+			<xmax>305</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plate</name>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>41</ymin>
+			<xmax>360</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>

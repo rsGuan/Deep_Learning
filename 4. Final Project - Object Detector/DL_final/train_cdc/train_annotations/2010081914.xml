@@ -1,0 +1,26 @@
+<annotation>
+	<filename>2010081914.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>144</ymin>
+			<xmax>200</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>341</xmin>
+			<ymin>187</ymin>
+			<xmax>385</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>

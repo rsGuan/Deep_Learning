@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201805227.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>154</ymin>
+			<xmax>237</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>74</ymin>
+			<xmax>248</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>68</ymin>
+			<xmax>308</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

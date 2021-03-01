@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2010082533.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>88</ymin>
+			<xmax>240</xmax>
+			<ymax>121</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>117</ymin>
+			<xmax>226</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>1</ymin>
+			<xmax>234</xmax>
+			<ymax>78</ymax>
+		</bndbox>
+	</object>
+</annotation>

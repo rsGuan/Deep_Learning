@@ -1,0 +1,17 @@
+<annotation>
+	<filename>201206261.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>170</ymin>
+			<xmax>356</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>

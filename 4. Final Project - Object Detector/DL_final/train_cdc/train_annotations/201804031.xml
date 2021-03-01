@@ -1,0 +1,17 @@
+<annotation>
+	<filename>201804031.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>water_tower</name>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>5</ymin>
+			<xmax>369</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

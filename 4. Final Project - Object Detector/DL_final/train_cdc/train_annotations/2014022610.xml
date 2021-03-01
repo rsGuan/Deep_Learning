@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2014022610.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>133</ymin>
+			<xmax>123</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>122</ymin>
+			<xmax>83</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>201</ymin>
+			<xmax>173</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

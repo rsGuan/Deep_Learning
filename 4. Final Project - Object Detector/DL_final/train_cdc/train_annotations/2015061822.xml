@@ -1,0 +1,26 @@
+<annotation>
+	<filename>2015061822.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>151</ymin>
+			<xmax>297</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>213</xmin>
+			<ymin>100</ymin>
+			<xmax>322</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,35 @@
+<annotation>
+	<filename>20101012.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>301</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>258</ymin>
+			<xmax>101</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>217</ymin>
+			<xmax>346</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymin>198</ymin>
+			<xmax>308</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>

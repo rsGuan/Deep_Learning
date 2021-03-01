@@ -1,0 +1,26 @@
+<annotation>
+	<filename>2009041615.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>157</ymin>
+			<xmax>178</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>154</ymin>
+			<xmax>233</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

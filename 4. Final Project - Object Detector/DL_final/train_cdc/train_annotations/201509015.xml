@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201509015.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>85</ymin>
+			<xmax>309</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>58</ymin>
+			<xmax>297</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>58</ymin>
+			<xmax>278</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

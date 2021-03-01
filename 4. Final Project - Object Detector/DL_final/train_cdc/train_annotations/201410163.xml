@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201410163.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>202</ymin>
+			<xmax>325</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>130</ymin>
+			<xmax>71</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>341</xmin>
+			<ymin>170</ymin>
+			<xmax>385</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>

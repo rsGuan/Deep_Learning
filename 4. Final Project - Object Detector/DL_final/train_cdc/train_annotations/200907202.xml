@@ -1,0 +1,17 @@
+<annotation>
+	<filename>200907202.jpg</filename>
+	<size>
+		<width>314</width>
+		<height>235</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>toilet</name>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>98</ymin>
+			<xmax>262</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+</annotation>

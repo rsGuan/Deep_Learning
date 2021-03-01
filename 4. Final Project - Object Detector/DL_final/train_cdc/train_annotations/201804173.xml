@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201804173.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>127</ymin>
+			<xmax>132</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plate</name>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>198</ymin>
+			<xmax>71</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>126</ymin>
+			<xmax>263</xmax>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+</annotation>

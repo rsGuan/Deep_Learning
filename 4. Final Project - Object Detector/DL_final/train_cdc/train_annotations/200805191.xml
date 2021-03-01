@@ -1,0 +1,26 @@
+<annotation>
+	<filename>200805191.jpg</filename>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>65</ymin>
+			<xmax>660</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plate</name>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>1</ymin>
+			<xmax>652</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+</annotation>

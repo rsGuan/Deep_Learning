@@ -1,0 +1,26 @@
+<annotation>
+	<filename>201306243.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>205</ymin>
+			<xmax>234</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>80</ymin>
+			<xmax>186</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>

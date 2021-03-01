@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201207253.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>57</ymin>
+			<xmax>243</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>40</ymin>
+			<xmax>205</xmax>
+			<ymax>82</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>211</ymin>
+			<xmax>158</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>

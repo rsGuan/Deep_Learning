@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201312062.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>217</ymin>
+			<xmax>288</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>113</ymin>
+			<xmax>307</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>204</ymin>
+			<xmax>204</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

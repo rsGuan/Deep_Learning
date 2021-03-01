@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2015090110.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>2</ymin>
+			<xmax>130</xmax>
+			<ymax>35</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>306</xmin>
+			<ymin>192</ymin>
+			<xmax>400</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>85</ymin>
+			<xmax>175</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+</annotation>

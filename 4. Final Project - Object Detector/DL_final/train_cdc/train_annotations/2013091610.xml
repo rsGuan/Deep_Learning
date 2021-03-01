@@ -1,0 +1,26 @@
+<annotation>
+	<filename>2013091610.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>washing_machine</name>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>30</ymin>
+			<xmax>400</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>94</ymin>
+			<xmax>227</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+</annotation>

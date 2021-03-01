@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201506043.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>263</ymin>
+			<xmax>88</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>223</ymin>
+			<xmax>247</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>water_tower</name>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>24</ymin>
+			<xmax>392</xmax>
+			<ymax>41</ymax>
+		</bndbox>
+	</object>
+</annotation>

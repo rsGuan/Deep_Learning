@@ -1,0 +1,26 @@
+<annotation>
+	<filename>2015061624.jpg</filename>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>256</ymin>
+			<xmax>106</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>258</ymin>
+			<xmax>263</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,17 @@
+<annotation>
+	<filename>2016112410.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>131</ymin>
+			<xmax>289</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

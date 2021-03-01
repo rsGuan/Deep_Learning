@@ -1,0 +1,17 @@
+<annotation>
+	<filename>201308134.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>129</ymin>
+			<xmax>170</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

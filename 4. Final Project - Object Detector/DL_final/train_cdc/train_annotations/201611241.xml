@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201611241.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>121</ymin>
+			<xmax>256</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>100</ymin>
+			<xmax>400</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>129</ymin>
+			<xmax>230</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<filename>2014033112.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>166</ymin>
+			<xmax>267</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>216</ymin>
+			<xmax>142</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2016071511.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>132</ymin>
+			<xmax>164</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>109</ymin>
+			<xmax>302</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>280</xmin>
+			<ymin>115</ymin>
+			<xmax>400</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>

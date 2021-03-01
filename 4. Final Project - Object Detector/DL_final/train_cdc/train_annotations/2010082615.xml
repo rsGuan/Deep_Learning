@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2010082615.jpg</filename>
+	<size>
+		<width>252</width>
+		<height>186</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>142</ymin>
+			<xmax>128</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>water_tower</name>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>81</ymin>
+			<xmax>227</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>147</ymin>
+			<xmax>66</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201709148.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>163</ymin>
+			<xmax>225</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plate</name>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>215</ymin>
+			<xmax>107</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>245</ymin>
+			<xmax>51</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

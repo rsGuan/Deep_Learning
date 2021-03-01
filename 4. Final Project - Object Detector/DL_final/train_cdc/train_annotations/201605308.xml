@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201605308.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>76</ymin>
+			<xmax>141</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>204</ymin>
+			<xmax>345</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>97</ymin>
+			<xmax>390</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>

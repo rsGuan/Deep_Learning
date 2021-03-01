@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201807059.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>92</ymin>
+			<xmax>243</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>215</ymin>
+			<xmax>234</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>220</ymin>
+			<xmax>296</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

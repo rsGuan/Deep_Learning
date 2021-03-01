@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2010081722.jpg</filename>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>282</xmin>
+			<ymin>265</ymin>
+			<xmax>433</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>178</ymin>
+			<xmax>108</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>263</ymin>
+			<xmax>293</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<filename>201801127.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>79</ymin>
+			<xmax>184</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>126</ymin>
+			<xmax>273</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

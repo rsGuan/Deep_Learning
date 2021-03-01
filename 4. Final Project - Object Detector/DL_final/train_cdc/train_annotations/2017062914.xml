@@ -1,0 +1,26 @@
+<annotation>
+	<filename>2017062914.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>96</ymin>
+			<xmax>291</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>33</ymin>
+			<xmax>400</xmax>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+</annotation>

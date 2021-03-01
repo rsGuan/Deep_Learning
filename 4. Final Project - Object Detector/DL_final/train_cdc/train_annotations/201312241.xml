@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201312241.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>205</ymin>
+			<xmax>162</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>186</ymin>
+			<xmax>285</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>221</ymin>
+			<xmax>138</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

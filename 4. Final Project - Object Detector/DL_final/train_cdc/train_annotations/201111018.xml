@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201111018.jpg</filename>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>128</ymin>
+			<xmax>534</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>1</ymin>
+			<xmax>335</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>1</ymin>
+			<xmax>400</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+</annotation>

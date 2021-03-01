@@ -1,0 +1,26 @@
+<annotation>
+	<filename>2015061830.jpg</filename>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>toilet</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>184</ymin>
+			<xmax>148</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>106</ymin>
+			<xmax>123</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<filename>201406024.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>washing_machine</name>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>43</ymin>
+			<xmax>172</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>washing_machine</name>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>33</ymin>
+			<xmax>331</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

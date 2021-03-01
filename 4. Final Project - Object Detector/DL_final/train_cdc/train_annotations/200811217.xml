@@ -1,0 +1,35 @@
+<annotation>
+	<filename>200811217.jpg</filename>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>112</ymin>
+			<xmax>297</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>339</ymin>
+			<xmax>450</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>226</ymin>
+			<xmax>369</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+</annotation>

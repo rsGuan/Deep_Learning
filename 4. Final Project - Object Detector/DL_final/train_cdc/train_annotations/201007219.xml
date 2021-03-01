@@ -1,0 +1,26 @@
+<annotation>
+	<filename>201007219.jpg</filename>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>182</ymin>
+			<xmax>175</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>274</ymin>
+			<xmax>279</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201404294.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>180</ymin>
+			<xmax>272</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>105</ymin>
+			<xmax>263</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>45</ymin>
+			<xmax>230</xmax>
+			<ymax>79</ymax>
+		</bndbox>
+	</object>
+</annotation>

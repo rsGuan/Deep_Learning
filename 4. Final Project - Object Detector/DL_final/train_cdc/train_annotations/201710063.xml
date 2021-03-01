@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201710063.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>styrofoam</name>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>40</ymin>
+			<xmax>339</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>36</ymin>
+			<xmax>112</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plate</name>
+		<bndbox>
+			<xmin>342</xmin>
+			<ymin>51</ymin>
+			<xmax>400</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>

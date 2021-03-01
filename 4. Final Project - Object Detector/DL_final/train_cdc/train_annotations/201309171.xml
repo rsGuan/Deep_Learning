@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201309171.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>toilet</name>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>207</ymin>
+			<xmax>233</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>188</ymin>
+			<xmax>191</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>167</ymin>
+			<xmax>159</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

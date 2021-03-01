@@ -1,0 +1,26 @@
+<annotation>
+	<filename>201805023.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tub</name>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>58</ymin>
+			<xmax>276</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>30</ymin>
+			<xmax>177</xmax>
+			<ymax>52</ymax>
+		</bndbox>
+	</object>
+</annotation>
